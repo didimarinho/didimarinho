@@ -70,13 +70,13 @@ pip install -r requirements.txt
 ```
 ---
 <div align="center">
-  <h2>📚 essential books for quant strategy 📈</h2>
+  <h2>📚 Essential books for quant strategy 📈</h2>
   <p>A selection of fundamental readings that guide the development of strategies and understanding of the financial market.</p>
 </div>
 
 ---
 
-### my library quant:
+### My library quant:
 
 | Book                                     | Author                 |
 | :---------------------------------------- | :-------------------- |
