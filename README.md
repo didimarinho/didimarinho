@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUxOWlta2s0bzBzMGg3Z2tlY2N1aXQ2dWd2Z2d4OW5ueG80eml5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BnaYtKxoGMU3dbW/giphy.gif" alt="Logo do Projeto Quant" style="border-radius: 10px; margin-bottom: 20px; width: 180px;">
-  <h1><span style="color: #2c3e50;">📊 Analysis of quantitative strategies 📈</span></h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUxOWlta2s0bzBzMGg3Z2tlY2N1aXQ2dWd2Z2d4OW5ueG80eml5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BnaYtKxoGMU3dbW/giphy.gif" alt="Logo do Projeto Quant" style="border-radius: 10px; margin-bottom: 20px; width: 280px;">
+  <h1></p><span style="color: #2c3e50; font-size: 30em;">📊 Analysis of quantitative strategies 📈</span></h1>
   <p><span style="color: #7f8c8d; font-size: 1.1em;">Unraveling the financial market with the power of data..</span></p>
 
   ---
