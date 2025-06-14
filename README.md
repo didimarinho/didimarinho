@@ -132,3 +132,8 @@ pip install -r requirements.txt
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maurodesouz/count.svg?"  />
+</div>
+
+###
