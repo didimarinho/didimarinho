@@ -1,106 +1,98 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUxOWlta2s0bzBzMGg3Z2tlY2N1aXQ2dWd2Z2d4OW5ueG80eml5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BnaYtKxoGMU3dbW/giphy.gif" alt="Logo do Projeto Quant" style="border-radius: 10px; margin-bottom: 20px; width: 180px;">
-  <h1><span style="color: #2c3e50;">📊 Análise de Estratégias Quantitativas 📈</span></h1>
-  <p><span style="color: #7f8c8d; font-size: 1.1em;">Desvendando o mercado financeiro com o poder dos dados.</span></p>
+  <h1><span style="color: #2c3e50;">📊 Analysis of quantitative strategies 📈</span></h1>
+  <p><span style="color: #7f8c8d; font-size: 1.1em;">Unraveling the financial market with the power of data..</span></p>
 
   ---
 
-  <p>
-    <a href="#sobre-o-projeto">Sobre</a> •
-    <a href="#funcionalidades">Funcionalidades</a> •
-    <a href="#demonstracao">Demonstração</a> •
-    <a href="#como-usar">Como Usar</a> •
-    <a href="#tecnologias">Tecnologias</a> •
-    <a href="#metricas-de-desempenho">Métricas</a> •
-    <a href="#contribuicoes">Contribuições</a> •
-    <a href="#licenca">Licença</a>
-  </p>
-
   ---
 
-  <p>
-    <a href="https://github.com/didimarinho/seu-repositorio/actions/workflows/main.yml">
-      <img src="https://github.com/didimarinho/seu-repositorio/actions/workflows/main.yml/badge.svg" alt="Build Status">
-    </a>
-    <a href="https://codecov.io/gh/didimarinho/seu-repositorio">
-      <img src="https://codecov.io/gh/didimarinho/seu-repositorio/branch/main/graph/badge.svg" alt="Code Coverage">
-    </a>
-    <a href="https://github.com/didimarinho/seu-repositorio/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-    </a>
-    <a href="https://img.shields.io/github/stars/didimarinho/seu-repositorio?style=social">
-      <img src="https://img.shields.io/github/stars/didimarinho/seu-repositorio?style=social" alt="GitHub Stars">
-    </a>
-  </p>
-</div>
+
+## 🎯 Project Building with Mathematics <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA0czNhaXN3dHAyeDFyaWFtbjQ3OTlqYmV5MGVib3ZnMHVzZXk2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif" alt="Build Math" height="40">
+
+This repository is an advanced laboratory for **quants**, researchers and financial market enthusiasts focused on **quantitative strategies**. My goal is to go beyond the basics, studying the mathematics behind the strategies and without the use of black boxes. I study in-depth risk analysis and portfolio optimization. If you are looking for a deep understanding of how strategies work and behave under different market conditions, you are in the right place!
+
+My approach is always data-driven, with a focus on statistical inference and the mathematics behind each model. I want to learn more and more and I seek to share my knowledge, welcome.
 
 ---
 
-## 🎯 Sobre o Projeto <img src="https://raw.githubusercontent.com/forthebadge/forthebadge/master/assets/images/badges/built-with-love.svg" alt="Built with love" height="20">
+## ✨ Main Features
 
-Este repositório é um laboratório avançado para **quants, pesquisadores e entusiastas do mercado financeiro** focados em **estratégias quantitativas**. Nosso objetivo é ir além do básico, oferecendo ferramentas robustas para a **backtesting rigorosa**, **análise de risco aprofundada** e **otimização de portfólio**. Se você busca uma compreensão profunda de como as estratégias funcionam e se comportam sob diversas condições de mercado, você está no lugar certo!
-
-Nossa abordagem é sempre baseada em dados, com foco na **inferência estatística** e na **matemática financeira** por trás de cada modelo. Queremos capacitar você a tomar decisões mais informadas e a construir sistemas de trading resilientes.
-
----
-
-## ✨ Funcionalidades Principais
-
-* **<span style="color: #2980b9;">📈 Backtesting com Precisão:</span>** Simule e avalie o desempenho de estratégias passadas, incorporando detalhes como custos de transação, derrapagem e impactos de liquidez.
-* **<span style="color: #c0392b;">⚠️ Análise de Risco Completa:</span>** Ferramentas para quantificar e visualizar o risco, incluindo **VaR (Value at Risk)**, **CVaR (Conditional Value at Risk)**, e análise de sensibilidade a choques de mercado.
-* **<span style="color: #27ae60;">🧠 Otimização Inteligente:</span>** Utilize algoritmos de otimização para encontrar os melhores conjuntos de parâmetros que maximizam o retorno ajustado ao risco.
-* **<span style="color: #8e44ad;">📊 Métricas de Desempenho ESGOTANTES:</span>** Gere relatórios detalhados com Sharpe Ratio, Sortino Ratio, Calmar Ratio, Drawdown Máximo, Alpha, Beta e muito mais.
-* **<span style="color: #f39c12;">🚀 Estratégias Inclusas:</span>** Implementações prontas de estratégias clássicas (ex: Moving Average Crossover, Mean Reversion) para servir como ponto de partida.
+* **<span style="color: #2980b9;">📈 Backtesting with Accurately:</span>** Simulate and evaluate the performance of past strategies, incorporating details such as transaction costs, slippage and liquidity impacts.
+* **<span style="color: #c0392b;">⚠️ Comprehensive Risk Analysis:</span>** Tools to quantify and visualize risk, including Value at Risk (VaR), Conditional Value at Risk (CVaR), and sensitivity analysis to market shocks.
+* **<span style="color: #27ae60;">🧠 Intelligent Optimization:</span>** Use optimization algorithms to find the best sets of parameters that maximize risk-adjusted return.
+* **<span style="color: #8e44ad;">📊 EXHAUSTING Performance Metrics:</span>** Generate detailed reports with Sharpe Ratio, Sortino Ratio, Calmar Ratio, Maximum Drawdown, Alpha, Beta and more.
+* **<span style="color: #f39c12;">🚀 Strategies Included:</span>** Ready-made implementations of classic strategies (e.g. Moving Average Crossover, Mean Reversion) to serve as a starting point.
 
 ---
-
-## 🎬 Demonstração Visual <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" />
-
-Veja um exemplo de como nossas análises se comportam!
+---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVlOWR5YWhmbGo4dWFxcG9kMDM4eDNtNHRnYzdiNGNqbmFudmkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0wxzvwsv5g4/giphy.gif" alt="Demonstração da Estratégia" width="70%">
-  <p><span style="color: #7f8c8d; font-size: 0.9em;">Animação de um backtest simulando o desempenho de uma estratégia.</span></p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hlenNhbWljc2h2ODlveHA0ZGh6Y3R5bHNndXd5emoxcWVpY3JsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IglugGaqF5UW4Ug/giphy.gif" alt="Demonstração da Estratégia" width="70%">
+
 </div>
 
 ---
 
-## 🚀 Como Usar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20%26%20Places/Rocket.png" alt="Rocket" width="25" height="25" />
+## 🚀 how to start <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcwdjB0cmtsY2FrMTl0ZGVtenFoZXY4ZWV1bXVnbTl4ZGphNXcwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHsNGykRSXwhPw4Q7M/giphy.gif" alt="Rocket" width="30" height="30" />
 
-Para começar a explorar o poder das estratégias quantitativas:
+To start exploring the power of quantitative strategies:
 
-### Pré-requisitos
+### Prerequisites
 
-Certifique-se de ter as seguintes ferramentas instaladas:
+Make sure you have the following tools installed:
 
-* **Python 3.9+** (recomendado) 🐍
-* **pip** (gerenciador de pacotes do Python) 📦
-* **Git** (para clonar o repositório) 🌳
+* **Python 3.9+** (recommended) 🐍
+* **pip** (Python package manager) 📦
+* **Git** (to clone the repository) 🌳
 
-### Instalação
+### Installation
 
-1.  **Clone o repositório:**
-
-    ```bash
-    git clone [https://github.com/didimarinho/NomeDoSeuRepositorio.git](https://github.com/didimarinho/NomeDoSeuRepositorio.git)
-    cd NomeDoSeuRepositorio
-    ```
-2.  **Crie e ative um ambiente virtual:**
-
-    ```bash
-    python -m venv venv
-    # Windows
-    .\venv\Scripts\activate
-    # macOS/Linux
-    source venv/bin/activate
-    ```
-3.  **Instale as dependências:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Executando as Análises
+1. **Clone the repository:**
 
 ```bash
-python scripts/run_strategy.py --name 'momentum_strategy' --symbol 'MSFT' --period '2010-01-01:2024-12-31'
+git clone [https://github.com/didimarinho/name of your repository.git](https://github.com/didimarinho/name of your repository.git)
+cd name of your repository
+```
+2. **Create and activate a virtual environment:**
+
+```bash
+python -m venv venv
+# Windows
+.\venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+```
+3. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+---
+<div align="center">
+  <h2>📚 essential books for quant strategy 📈</h2>
+  <p>A selection of fundamental readings that guide the development of strategies and understanding of the financial market.</p>
+</div>
+
+---
+
+### my library quant:
+
+| Book                                     | Author                 |
+| :---------------------------------------- | :-------------------- |
+| **The Volatily Surface** | Jim Gatheral        |
+| <img src="https://m.media-amazon.com/images/I/61vC6EkjKsL._SL1500_.jpg" alt="Cover QT" width="120"> |                       |
+| **Machine Learning for asset Managers** | Marcos Lópes de Prado     |
+| <img src="https://m.media-amazon.com/images/I/414TeO7Yr3L._SY445_SX342_.jpg" alt="Cover AT" width="120"> |                       |
+| **Gaussian Processes for Machine Learning** | Carl Eduard |
+| <img src="https://m.media-amazon.com/images/I/31LvY00iqGL._SY445_SX342_.jpg" alt="Cover AFML" width="120"> |                       |
+| **Sthocastic Cálculus for Finance** | Steven Shreve    |
+| <img src="https://m.media-amazon.com/images/I/41KxFmm7qiL._SY445_SX342_.jpg" alt="Cover RW" width="120"> |                       |
+| **Baesian Methods in Finance** | Willian Jhonson  |
+| <img src="https://m.media-amazon.com/images/I/81hOIt0ISpL._SL1500_.jpg" alt="Cover PQF" width="120"> |                       |
+| **Quantitative Risk Management** | Alexander Frey      |
+| <img src="https://m.media-amazon.com/images/I/71hFIuw7o0L._SL1500_.jpg" alt="Cover TI" width="120"> |        
+| **The Element of Statistical Learning** | Trevor Hastie      |
+| <img src="https://m.media-amazon.com/images/I/517TrzchOML._SL1280_.jpg" alt="Cover TI" width="120"> |  |
+| **A primer for the Mathematics of financial Engineering** | Dan Stefanica     |
+| <img src="https://m.media-amazon.com/images/I/51Bc+ZZOHUL._SL1500_.jpg" alt="Cover TI" width="120"> |  |
